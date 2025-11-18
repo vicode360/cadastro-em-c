@@ -11,6 +11,7 @@ No código em questão, foi simulado um sistema de cadastro com menu, onde você
 ## Instalacao:
 
 Para compilar e executar o programa, você precisa primeiro instalar o arquivo cadastro.c.
+
 Achar e Compilar no CMD:
 ```
 cd C:\Users\... >> "pasta com cadastro.c"
@@ -34,6 +35,7 @@ The code simulates a simple register system, where it features:
 ## Installation
 
 To be able to compile and run the program, you'll need to install "cadastro.c"
+
 Find and Compile in CMD:
 ```
 cd C:\Users\... >> "Folder with cadastro.c"
