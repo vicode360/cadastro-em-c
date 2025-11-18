@@ -20,7 +20,7 @@ gcc cadastro.c -o cadastro.exe
 ```
 Executar:
 ```
-/cadastro.exe
+./cadastro.exe
 ```
 
 # EN:
@@ -43,5 +43,5 @@ gcc cadastro.c -o cadastro.exe
 ```
 Run:
 ```
-/cadastro.exe
+./cadastro.exe
 ```
